@@ -9,8 +9,6 @@ This repository consolidates my knowledge ranging from **Containerization (Docke
 ## 🐳 1. DevOps Concepts for Automation Systems
 **Goal:** Establishing a consistent, reproducible, and scalable development environment using Containerization technology to solve "It works on my machine" issues.
 
-![Docker for Developers]
-
 ### 🔹 Containerization Strategy
 Understanding the shift from monolithic deployments to microservices:
 * **Docker for Developers:**
@@ -34,8 +32,6 @@ Understanding the shift from monolithic deployments to microservices:
 ### 🔹 Modern Web Architecture
 Moving beyond basic HTML/CSS to robust Single Page Applications (SPA).
 
-![TypeScript Programming]
-
 * **Type-Safe Programming (TypeScript):**
     * **Concept:** enforcing static typing to catch errors at compile-time rather than runtime.
     * **Application:** utilized for defining strict interfaces for API responses and sensor data structures, significantly reducing bugs in large-scale applications.
@@ -46,8 +42,6 @@ Moving beyond basic HTML/CSS to robust Single Page Applications (SPA).
 ### 🔹 UX/UI Design for Industry
 Standardizing the design process for clarity and safety.
 
-![UX/UI Design]
-
 * **Design Workflow:** From wireframing in self-hosted design tools to practical implementation in code.
 * **User-Centric Layouts:** Applying UX principles to ensure operators can quickly identify alerts, system status, and anomalies (High Contrast, Clear Hierarchy).
 * **Data Visualization:** Implementing **SVG** and charting libraries to render real-time telemetry and historical trends with high performance.
@@ -57,8 +51,6 @@ Standardizing the design process for clarity and safety.
 ## 🔌 3. Back-End Development (API & Database)
 **Goal:** Building the robust backbone of the system responsible for data management, device control, and security.
 
-![API Server]
-
 ### 🔹 API Server Architecture
 * **RESTful Services:**
     * Designing scalable APIs to manage IoT devices, handle user authentication, and serve configuration data.
@@ -67,7 +59,6 @@ Standardizing the design process for clarity and safety.
     * Bridging the gap between the server and the frontend using **WebSockets** or **MQTT over WebSockets** for instant bi-directional communication.
 
 ### 🔹 Database Engineering
-![Database Design]
 
 * **ORM (Object-Relational Mapping):**
     * Utilizing ORM tools for efficient, secure, and type-safe database queries, abstracting complex SQL commands.
@@ -79,8 +70,6 @@ Standardizing the design process for clarity and safety.
 
 ## 🤖 4. Data Processing and AI (Local Intelligence)
 **Goal:** Leveraging Artificial Intelligence to create "Smart" Industrial Systems that operate autonomously without relying on external cloud services.
-
-![Local LLM & AI]
 
 ### 🔹 Local Intelligence Stack
 * **Self-Hosted LLM:**
