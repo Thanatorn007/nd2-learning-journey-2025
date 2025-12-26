@@ -9,7 +9,7 @@ This repository consolidates my knowledge ranging from **Containerization (Docke
 ## 🐳 1. DevOps Concepts for Automation Systems
 **Goal:** Establishing a consistent, reproducible, and scalable development environment using Containerization technology to solve "It works on my machine" issues.
 
-![Docker for Developers](images/docker-dev.png)
+![Docker for Developers]
 
 ### 🔹 Containerization Strategy
 Understanding the shift from monolithic deployments to microservices:
@@ -34,7 +34,7 @@ Understanding the shift from monolithic deployments to microservices:
 ### 🔹 Modern Web Architecture
 Moving beyond basic HTML/CSS to robust Single Page Applications (SPA).
 
-![TypeScript Programming](images/typescript.png)
+![TypeScript Programming]
 
 * **Type-Safe Programming (TypeScript):**
     * **Concept:** enforcing static typing to catch errors at compile-time rather than runtime.
@@ -46,7 +46,7 @@ Moving beyond basic HTML/CSS to robust Single Page Applications (SPA).
 ### 🔹 UX/UI Design for Industry
 Standardizing the design process for clarity and safety.
 
-![UX/UI Design](images/ui-ux-dev.png)
+![UX/UI Design]
 
 * **Design Workflow:** From wireframing in self-hosted design tools to practical implementation in code.
 * **User-Centric Layouts:** Applying UX principles to ensure operators can quickly identify alerts, system status, and anomalies (High Contrast, Clear Hierarchy).
@@ -57,7 +57,7 @@ Standardizing the design process for clarity and safety.
 ## 🔌 3. Back-End Development (API & Database)
 **Goal:** Building the robust backbone of the system responsible for data management, device control, and security.
 
-![API Server](images/api-server.png)
+![API Server]
 
 ### 🔹 API Server Architecture
 * **RESTful Services:**
@@ -67,7 +67,7 @@ Standardizing the design process for clarity and safety.
     * Bridging the gap between the server and the frontend using **WebSockets** or **MQTT over WebSockets** for instant bi-directional communication.
 
 ### 🔹 Database Engineering
-![Database Design](images/db-design.png)
+![Database Design]
 
 * **ORM (Object-Relational Mapping):**
     * Utilizing ORM tools for efficient, secure, and type-safe database queries, abstracting complex SQL commands.
@@ -80,7 +80,7 @@ Standardizing the design process for clarity and safety.
 ## 🤖 4. Data Processing and AI (Local Intelligence)
 **Goal:** Leveraging Artificial Intelligence to create "Smart" Industrial Systems that operate autonomously without relying on external cloud services.
 
-![Local LLM & AI](images/ai-local.png)
+![Local LLM & AI]
 
 ### 🔹 Local Intelligence Stack
 * **Self-Hosted LLM:**
@@ -109,5 +109,3 @@ Plans to synthesize these skills into next-generation industrial solutions.
     * **Tech Stack:** Dockerized Microservices, React + TypeScript, InfluxDB, Nginx.
     * **Status:** *Architecture Design Phase.*
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*Created as part of the ND2-MP5 assignment. A living document of my technical growth in 2025.*
